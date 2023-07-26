@@ -1,0 +1,18 @@
+body {
+  background-color: hotpink;
+}
+h1 {
+  text-align: center;
+}
+canvas {
+  background-color: lemonchiffon;
+  position: relative;
+  left: 35px;
+  border: 20px solid lightgreen;
+}
+.canvaret {
+  background-color: lightblue;
+  position: relative;
+  left: 30px;
+  border: 20px solid skyblue;
+}
